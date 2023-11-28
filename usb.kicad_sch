@@ -2482,7 +2482,7 @@
     (property "Reference" "FL1" (at 175.26 120.65 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Filter_EMI_CommonMode" (at 175.26 130.81 0)
+    (property "Value" "CommonModeChoke" (at 175.26 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "mainboard:L_CommonModeChoke_Murata_DLM0NS" (at 175.26 124.714 0)
