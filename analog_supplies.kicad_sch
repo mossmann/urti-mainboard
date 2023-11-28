@@ -2958,9 +2958,9 @@
     (property "Description" "SOT-363 NPN+NPN 0.3W 0.1A 50V" (at 207.01 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e37def8-607f-4079-b3db-045af3b4c538))
-    (pin "2" (uuid a522aa28-e48e-4c29-ab1f-049b4bac078b))
-    (pin "6" (uuid 7286dc78-8784-4197-894d-cb9cf58b4fff))
+    (pin "1" (uuid 9e37def8-607f-4079-b3db-045af3b4c539))
+    (pin "2" (uuid a522aa28-e48e-4c29-ab1f-049b4bac078c))
+    (pin "6" (uuid 7286dc78-8784-4197-894d-cb9cf58b5000))
     (pin "3" (uuid 82f22826-aa1a-4f94-b4e7-016f3d452e99))
     (pin "4" (uuid 4fb67d1d-263a-46f8-a327-6dca7bd71a8e))
     (pin "5" (uuid 5fe8ffe0-b1bd-4603-954c-3b7dcf56da63))
@@ -3190,9 +3190,9 @@
     (pin "1" (uuid 41dc50b5-27f2-4529-895b-756fb109734a))
     (pin "2" (uuid cfae7074-d66f-4a91-a0f0-994a3e914128))
     (pin "6" (uuid a31f71c5-f762-4cac-aec0-6c9241977113))
-    (pin "3" (uuid 4f38ace8-03bf-4de3-840a-cffcbbb22425))
-    (pin "4" (uuid 9f5ca75f-dc73-41d5-932a-ed68c7cc764d))
-    (pin "5" (uuid 086035be-87d9-4248-a12a-8a03e71ee5e4))
+    (pin "3" (uuid 4f38ace8-03bf-4de3-840a-cffcbbb22426))
+    (pin "4" (uuid 9f5ca75f-dc73-41d5-932a-ed68c7cc764e))
+    (pin "5" (uuid 086035be-87d9-4248-a12a-8a03e71ee5e5))
     (instances
       (project "mainboard"
         (path "/fb621148-8145-4217-9712-738e1b5a4823/4ec621be-184d-4855-a96d-f6fa2a788a77/6aa278c8-8281-4438-81b7-90e6d7ac4f12"
