@@ -276,7 +276,7 @@
     (property "ki_description" "SWH coaxial connector" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*" (at 0 0 0)
+    (property "ki_fp_filters" "*SWH*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Conn_Coaxial_MM8930-2600_0_1"
@@ -371,7 +371,7 @@
     (property "ki_description" "two-way SWH coaxial connector" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*" (at 0 0 0)
+    (property "ki_fp_filters" "*SWH*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Conn_Coaxial_MM8930-2620_0_1"
