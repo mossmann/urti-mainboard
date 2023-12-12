@@ -3724,7 +3724,7 @@
     (property "Value" "3.0±2%" (at 170.18 53.34 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "cynthion:DFN1006-2" (at 172.72 52.07 0)
+    (property "Footprint" "mainboard:DFN1006-2" (at 172.72 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BZX884_BC_SER.pdf" (at 172.72 52.07 0)
