@@ -178,9 +178,8 @@
       "track_widths": [
         0.0,
         0.127,
-        0.1524,
         0.2032,
-        0.29337,
+        0.36576,
         0.4,
         0.508,
         1.0,
@@ -471,7 +470,7 @@
         "name": "RF50",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.34925,
+        "track_width": 0.36576,
         "via_diameter": 0.4572,
         "via_drill": 0.2032,
         "wire_width": 6
@@ -488,7 +487,7 @@
         "name": "RF75",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.134874,
+        "track_width": 0.1651,
         "via_diameter": 0.4572,
         "via_drill": 0.2032,
         "wire_width": 6
@@ -496,7 +495,7 @@
       {
         "bus_width": 12,
         "clearance": 0.127,
-        "diff_pair_gap": 0.17907,
+        "diff_pair_gap": 0.127,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2032,
         "line_style": 0,
@@ -677,7 +676,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2023-12-22",
+    "DATE": "2024-01-06",
     "VERSION": "0.0.0+"
   }
 }
