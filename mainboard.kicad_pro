@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.2032
+          "min_clearance": 0.127
         }
       },
       "diff_pair_dimensions": [
@@ -179,6 +179,7 @@
         0.0,
         0.127,
         0.2032,
+        0.254,
         0.36576,
         0.4,
         0.508,
@@ -201,10 +202,6 @@
         {
           "diameter": 0.762,
           "drill": 0.381
-        },
-        {
-          "diameter": 1.016,
-          "drill": 0.508
         }
       ],
       "zones_allow_external_fillets": false,
@@ -446,7 +443,7 @@
         "clearance": 0.127,
         "diff_pair_gap": 0.127,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.127,
+        "diff_pair_width": 0.254,
         "line_style": 0,
         "microvia_diameter": 0.3048,
         "microvia_drill": 0.1016,
@@ -676,7 +673,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2024-01-06",
+    "DATE": "2024-01-08",
     "VERSION": "0.0.0+"
   }
 }
