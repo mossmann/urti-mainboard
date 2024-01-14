@@ -811,9 +811,9 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 3ebabbf1-1490-42ae-bd9d-1efa32f3d298)
     )
-    (pin "3V3FPGA_EN" input (at 241.3 151.13 180)
+    (pin "~{3V3FPGA_EN}" input (at 241.3 151.13 180)
       (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 0fe6d219-e93e-425c-8a46-393073cc44e0)
+      (uuid 3d8fc820-85d3-4451-ba4e-71701f5bf599)
     )
     (instances
       (project "mainboard"
@@ -872,9 +872,9 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 62e8f267-3c99-4ff6-81b3-2eb36a789665)
     )
-    (pin "3V3FPGA_EN" output (at 35.56 67.31 180)
+    (pin "~{3V3FPGA_EN}" output (at 35.56 67.31 180)
       (effects (font (size 1.27 1.27)) (justify left))
-      (uuid 982a5043-97a9-4a6a-a361-ec6bd8ae2a1e)
+      (uuid abdd5053-a13e-4a84-b52e-f350767d0023)
     )
     (instances
       (project "mainboard"

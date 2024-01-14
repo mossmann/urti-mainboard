@@ -1083,7 +1083,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1bc9f53d-da3a-4c94-b628-5236ad25a01b)
   )
-  (hierarchical_label "3V3FPGA_EN" (shape output) (at 138.43 100.33 0) (fields_autoplaced)
+  (hierarchical_label "~{3V3FPGA_EN}" (shape output) (at 138.43 100.33 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 27163bbc-d94d-46f3-8579-0f153db0a936)
   )
