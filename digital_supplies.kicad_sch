@@ -2124,11 +2124,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 48ee7d1f-e48f-426f-ad2f-caf846e61759)
   )
-  (text "FIXME ensure that these and other DNP\ncomponents are included in position files"
-    (at 22.86 96.52 0)
-    (effects (font (size 0.9906 0.9906)) (justify left bottom))
-    (uuid 72e59bfe-3c63-4315-82eb-d45212ce720d)
-  )
   (text "FPGA Power Switch" (at 209.55 96.52 0)
     (effects (font (size 3.4036 3.4036)) (justify left bottom))
     (uuid 73e99eb8-0b7b-4d28-8d38-bd87e678a02e)
